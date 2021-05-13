@@ -274,6 +274,7 @@ def confusion_matrix_test(K,inits = 10):
 # hist_clusters_h affiche l'histogramme des classes créées par le clustering
 # silhouette_h renvoit la silhouette du clustering
 # confusion_matrix_test_h affiche les labels des classes et renvoit la matrice de confusion de la base de donnée de test du clustering
+# hist_clusters_h_sl affiche l'histogramme des classes créées par le clustering avec la distance Single Linkage 
 
 digits_train_no_class = []
 
@@ -310,7 +311,6 @@ def hist_clusters_h(n_clusters):
         ax.hist(clusters_classes_label[i][0],rwidth = 0.1,bins = np.arange(11)-0.5)
         plt.xticks([0,1,2,3,4,5,6,7,8,9,10])
         ax.text(0,7,str(clusters_classes_label[i][1]))
-        
     plt.show()
     
 def silhouette_h(n_clusters):
@@ -328,3 +328,22 @@ def confusion_matrix_test_h(n_clusters):
     clusters_index = get_clusters_index_h(fclusters,n_clusters)
     centers = compute_centers_h(fclusters,n_clusters,clusters_index)
     return confusion_matrix_test_i(clusters_index,centers)
+
+def hist_clusters_h_sl(n_clusters):
+    clustering_hierarchique = linkage(digits_train_no_class,method='single')
+    fclusters = fcluster(clustering_hierarchique,t=n_clusters,criterion="maxclust")
+    cluster_classes = [[] for i in range(n_clusters)]
+    for i in range(len(fclusters)):
+        cluster_classes[fclusters[i]-1].append(digits_train[i][64])
+    clusters_classes_label = []
+    for i in cluster_classes:
+        clusters_classes_label.append([i,np.argmax(np.bincount(i))])
+    clusters_classes_label.sort(key = lambda t : t[1])
+    fig = plt.figure()
+    for i in range(len(clusters_classes_label)):
+        ax = fig.add_subplot(4, 4, i + 1)
+        ax.hist(clusters_classes_label[i][0],rwidth = 0.1,bins = np.arange(11)-0.5)
+        plt.xticks([0,1,2,3,4,5,6,7,8,9,10])
+        ax.text(0,7,str(clusters_classes_label[i][1]))
+    plt.show()
+    
