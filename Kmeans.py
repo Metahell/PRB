@@ -173,7 +173,7 @@ def assign_cluster(clusters_index,centers):
 
 def confusion_matrix_test_i(clusters_index,centers):
     true_classes, assigned_classes = assign_cluster(clusters_index,centers)
-    result = np.zeros((10,len(clusters_index)))
+    result = np.zeros((10,10))
     for i in range(len(true_classes)):
         result[true_classes[i]][assigned_classes[i]] += 1
     return result
@@ -267,7 +267,7 @@ def confusion_matrix_test(K,inits = 10):
     
 ## CAH
 
-# Dans cette partie, la classification ascendante hiérarchique a été implémantée.
+# Dans cette partie, la classification ascendante hiérarchique a été implémentée.
 # Les fonctions prennent en argument le nombre de clusters désirés
 
 # dendrogram_h affiche le dendrogramme de la CAH avec 10 clusters représentés
