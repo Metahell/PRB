@@ -1,0 +1,688 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.26)  17 MAY 2021 12:33
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/autres/Me/autre/Github/PRB/rapport.tex
+(d:/autres/Me/autre/Github/PRB/rapport.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-15> (d:/Programmes/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/Programmes/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/05/13 3.44 The Babel package
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/05/13 3.44 Babel common definitions
+\babel@savecnt=\count178
+\U@D=\dimen143
+\l@babelnohyphens=\language86
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count179
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2020/04/18 v3.5h French support from the babel system
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language28) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language28) on input line 92.
+\FB@nonchar=\count180
+Package babel Info: Making : an active character on input line 421.
+Package babel Info: Making ; an active character on input line 422.
+Package babel Info: Making ! an active character on input line 423.
+Package babel Info: Making ? an active character on input line 424.
+\FBguill@level=\count181
+\FBold@everypar=\toks19
+\FB@Mht=\dimen144
+\mc@charclass=\count182
+\mc@charfam=\count183
+\mc@charslot=\count184
+\std@mcc=\count185
+\dec@mcc=\count186
+\c@FBcaption@count=\count187
+\listindentFB=\dimen145
+\descindentFB=\dimen146
+\labelindentFB=\dimen147
+\labelwidthFB=\dimen148
+\leftmarginFB=\dimen149
+\parindentFFN=\dimen150
+\FBfnindent=\dimen151
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/carlisle/scalefnt.sty) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen152
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks21
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks22
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (d:/Programmes/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count266
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box47
+)
+\tc@llx=\dimen163
+\tc@lly=\dimen164
+\tc@urx=\dimen165
+\tc@ury=\dimen166
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen167
+\adjbox@Height=\dimen168
+\adjbox@Depth=\dimen169
+\adjbox@Totalheight=\dimen170
+\adjbox@pwidth=\dimen171
+\adjbox@pheight=\dimen172
+\adjbox@pdepth=\dimen173
+\adjbox@ptotalheight=\dimen174
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count267
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box48
+\sift@deathcycles=\count268
+\@vwid@loff=\dimen175
+\@vwid@roff=\dimen176
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen177
+\captionmargin@=\dimen178
+\captionwidth=\dimen179
+\caption@tempdima=\dimen180
+\caption@indent=\dimen181
+\caption@parindent=\dimen182
+\caption@hangindent=\dimen183
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count271
+\lst@gtempboxa=\box49
+\lst@token=\toks27
+\lst@length=\count272
+\lst@currlwidth=\dimen184
+\lst@column=\count273
+\lst@pos=\count274
+\lst@lostspace=\dimen185
+\lst@width=\dimen186
+\lst@newlines=\count275
+\lst@lineno=\count276
+\lst@maxwidth=\dimen187
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count277
+\lst@skipnumbers=\count278
+\lst@framebox=\box50
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count279
+\float@exts=\toks28
+\float@box=\box51
+\@float@everytoks=\toks29
+\@floatcapt=\box52
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/05/07 v2.02f (include SVG pictures)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/04/19 v3.30 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/04/19 v3.30 KOMA-Script package (loading files)
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box53
+\c@svg@param@lastpage=\count280
+\c@svg@param@currpage=\count281
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2019/08/20 v0.3c Improved picture commands (HjG,RN,JT)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks30
+\@arclen=\dimen188
+\@arcrad=\dimen189
+\@tempdimd=\dimen190
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen191
+\calc@Bdimen=\dimen192
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip54
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen193
+\ar@mcellbox=\box54
+\extrarowheight=\dimen194
+\NC@list=\toks31
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box55
+)
+\diagbox@boxa=\box56
+\diagbox@boxb=\box57
+\diagbox@boxm=\box58
+\diagbox@wd=\dimen195
+\diagbox@ht=\dimen196
+\diagbox@insepl=\dimen197
+\diagbox@insepr=\dimen198
+\diagbox@outsepl=\dimen199
+\diagbox@outsepr=\dimen256
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen257
+\AM@pageheight=\dimen258
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box59
+\AM@global@opts=\toks32
+\AM@pagecnt=\count285
+\AM@toc@title=\toks33
+\c@AM@survey=\count286
+\AM@templatesizebox=\box60
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count287
+\c@ALC@line=\count288
+\c@ALC@rem=\count289
+\c@ALC@depth=\count290
+\ALC@tlm=\skip57
+\algorithmicindent=\skip58
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen259
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count293
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count294
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen260
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count295
+\Field@Width=\dimen261
+\Fld@charsize=\dimen262
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+\Hy@abspage=\count296
+\c@Item=\count297
+\c@Hfootnote=\count298
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count299
+\c@bookmark@seq@number=\count300
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip59
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count301
+\l__pdf_internal_box=\box61
+) (d:/autres/Me/autre/Github/PRB/rapport.aux)
+\openout1 = `rapport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 30.
+LaTeX Info: Redefining \dots on input line 30.
+LaTeX Info: Redefining \up on input line 30.
+(d:/Programmes/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count302
+\scratchdimen=\dimen263
+\scratchbox=\box62
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen264
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks35
+) (d:/Programmes/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count308
+\AtBeginShipoutBox=\box63
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring OFF on input line 30.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (d:/Programmes/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count309
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+ (d:/autres/Me/autre/Github/PRB/rapport.out) (d:/autres/Me/autre/Github/PRB/rapport.out)
+\@outlinefile=\write3
+\openout3 = `rapport.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+ (d:/Programmes/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{d:/Programmes/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/autres/Me/autre/Github/PRB/rapport.toc)
+\tf@toc=\write4
+\openout4 = `rapport.toc'.
+
+ [2]
+Package svg Info: Last page of `./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf' is 1 on input line 43.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf_tex
+<./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf, id=105, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 483.69687pt x 232.77707pt.
+)
+Package svg Info: Last page of `./svg-inkscape/hist_cluster(10)_svg-tex.pdf' is 1 on input line 52.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster(10)_svg-tex.pdf_tex
+<./svg-inkscape/hist_cluster(10)_svg-tex.pdf, id=107, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/hist_cluster(10)_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/hist_cluster(10)_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/hist_cluster(10)_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 677.17265pt x 325.88281pt.
+) [3 <d:/autres/Me/autre/Github/PRB/./svg-inkscape/erreur_quadratique(10)_svg-tex.pdf> <d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster(10)_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster(10)_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<silhouette(10).PNG, id=282, 111.41624pt x 24.84282pt>
+File: silhouette(10).PNG Graphic file (type png)
+<use silhouette(10).PNG>
+Package pdftex.def Info: silhouette(10).PNG  used on input line 61.
+(pdftex.def)             Requested size: 111.41597pt x 24.84274pt.
+<silhouette(10_15).PNG, id=284, 178.41656pt x 115.93312pt>
+File: silhouette(10_15).PNG Graphic file (type png)
+<use silhouette(10_15).PNG>
+Package pdftex.def Info: silhouette(10_15).PNG  used on input line 70.
+(pdftex.def)             Requested size: 142.73343pt x 92.74661pt.
+Package svg Info: Last page of `./svg-inkscape/hist_cluster(15)_svg-tex.pdf' is 1 on input line 77.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster(15)_svg-tex.pdf_tex
+<./svg-inkscape/hist_cluster(15)_svg-tex.pdf, id=287, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/hist_cluster(15)_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/hist_cluster(15)_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/hist_cluster(15)_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 532.0695pt x 256.05138pt.
+) [4 <d:/autres/Me/autre/Github/PRB/silhouette(10).PNG> <d:/autres/Me/autre/Github/PRB/silhouette(10_15).PNG> <d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster(15)_svg-tex.pdf>]
+Package svg Info: Last page of `./svg-inkscape/dendrogram_h()_svg-tex.pdf' is 1 on input line 146.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/dendrogram_h()_svg-tex.pdf_tex
+<./svg-inkscape/dendrogram_h()_svg-tex.pdf, id=524, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/dendrogram_h()_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/dendrogram_h()_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/dendrogram_h()_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 483.69687pt x 232.77707pt.
+) [5]
+Package svg Info: Last page of `./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf' is 1 on input line 153.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf_tex
+<./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf, id=538, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 677.17265pt x 325.88281pt.
+)
+<silhouette_h(10).PNG, id=539, 114.4275pt x 24.09pt>
+File: silhouette_h(10).PNG Graphic file (type png)
+<use silhouette_h(10).PNG>
+Package pdftex.def Info: silhouette_h(10).PNG  used on input line 160.
+(pdftex.def)             Requested size: 114.42722pt x 24.08992pt.
+ [6 <d:/autres/Me/autre/Github/PRB/./svg-inkscape/dendrogram_h()_svg-tex.pdf> <d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf
+
+pdfTeX warning: pdflatex.exe (file d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster_h(10)_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <d:/autres/Me/autre/Github/PRB/silhouette_h(10).PNG>]
+<silhouette_h(10_15).PNG, id=866, 155.83218pt x 116.68594pt>
+File: silhouette_h(10_15).PNG Graphic file (type png)
+<use silhouette_h(10_15).PNG>
+Package pdftex.def Info: silhouette_h(10_15).PNG  used on input line 167.
+(pdftex.def)             Requested size: 155.8318pt x 116.68564pt.
+ [7 <d:/autres/Me/autre/Github/PRB/silhouette_h(10_15).PNG>]
+Package svg Info: Last page of `./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf' is 1 on input line 234.
+ (d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf_tex
+<./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf, id=880, page=1, 1156.32pt x 556.47902pt>
+File: ./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 677.17265pt x 325.88281pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+ [8 <d:/autres/Me/autre/Github/PRB/./svg-inkscape/hist_cluster_h_sl(10)_svg-tex.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+ (d:/autres/Me/autre/Github/PRB/rapport.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
+Package rerunfilecheck Info: File `rapport.out' has not changed.
+(rerunfilecheck)             Checksum: B619CE4AC569CA8CFEF6C9A287300151;1350.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+ ) 
+Here is how much of TeX's memory you used:
+ 14231 strings out of 480476
+ 224808 string characters out of 5898102
+ 550940 words of memory out of 5000000
+ 29877 multiletter control sequences out of 15000+600000
+ 545431 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,16n,96p,784b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Programmes/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><d:/Programmes/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on d:/autres/Me/autre/Github/PRB/rapport.pdf (8 pages, 540959 bytes).
+PDF statistics:
+ 996 PDF objects out of 1000 (max. 8388607)
+ 702 compressed objects within 8 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+

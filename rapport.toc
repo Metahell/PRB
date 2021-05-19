@@ -1,0 +1,38 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Algorithme des K-moyennes}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Apprentissage}{3}{subsection.1.1}%
+\contentsline {paragraph}{}{3}{section*.2}%
+\contentsline {subsubsection}{\numberline {1.1.1}Erreur de quantification}{3}{subsubsection.1.1.1}%
+\contentsline {paragraph}{}{3}{section*.4}%
+\contentsline {subsubsection}{\numberline {1.1.2}Histogramme des classes}{3}{subsubsection.1.1.2}%
+\contentsline {paragraph}{}{3}{section*.5}%
+\contentsline {paragraph}{}{4}{section*.7}%
+\contentsline {subsubsection}{\numberline {1.1.3}Indice de la Silhouette}{4}{subsubsection.1.1.3}%
+\contentsline {paragraph}{}{4}{section*.9}%
+\contentsline {subsubsection}{\numberline {1.1.4}Variation du nombre de clusters}{4}{subsubsection.1.1.4}%
+\contentsline {paragraph}{}{4}{figure.caption.11}%
+\contentsline {paragraph}{}{5}{section*.13}%
+\contentsline {subsection}{\numberline {1.2}Classification de la base de test}{5}{subsection.1.2}%
+\contentsline {paragraph}{}{5}{section*.14}%
+\contentsline {subsubsection}{\numberline {1.2.1}Matrice de confusions}{5}{subsubsection.1.2.1}%
+\contentsline {paragraph}{}{5}{section*.16}%
+\contentsline {paragraph}{}{5}{section*.18}%
+\contentsline {section}{\numberline {2}Classification Ascendante Hiérarchique}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Apprentissage}{5}{subsection.2.1}%
+\contentsline {paragraph}{}{5}{section*.19}%
+\contentsline {paragraph}{}{5}{section*.20}%
+\contentsline {subsubsection}{\numberline {2.1.1}Histogramme des classes}{6}{subsubsection.2.1.1}%
+\contentsline {paragraph}{}{6}{section*.23}%
+\contentsline {subsubsection}{\numberline {2.1.2}Indice de la Silhouette}{6}{subsubsection.2.1.2}%
+\contentsline {paragraph}{}{7}{section*.25}%
+\contentsline {subsubsection}{\numberline {2.1.3}Variation du nombre de clusters}{7}{subsubsection.2.1.3}%
+\contentsline {paragraph}{}{7}{section*.27}%
+\contentsline {subsection}{\numberline {2.2}Classification de la base de test}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Matrice de confusion}{7}{subsubsection.2.2.1}%
+\contentsline {paragraph}{}{7}{section*.29}%
+\contentsline {paragraph}{}{8}{section*.31}%
+\contentsline {subsection}{\numberline {2.3}Comparaison Single Linkage et Linkage de Ward}{8}{subsection.2.3}%
+\contentsline {paragraph}{}{8}{section*.32}%
+\contentsline {paragraph}{}{8}{section*.34}%
+\contentsline {section}{\numberline {3}Conclusion : Comparaison des confusions}{8}{section.3}%
+\contentsline {paragraph}{}{8}{section*.36}%
